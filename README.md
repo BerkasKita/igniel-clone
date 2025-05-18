@@ -1,3 +1,5 @@
 # Memasang Informasi Tema
 
-![Memasang Informasi Tema](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTCzHTCD85E9HayKrkWp1dO-B7je83mZKPO2Pck_g3pznJFBxjFLSKMI_W1Jf2NHKDLt_1HUtSJ-BMXiLvnxjxh4iEzhxKMYPMg-uu0oWmgQngUPzMujsHKtIOhTZzWawckzS1HqpETrCNI6B1RE63qiwvVEpOtOHhRfY2wfPN5Dh8u7uvVaHSNCCdiY/s1600/Screenshot%202025-05-18%20163004.png)
+<p align="center">
+  <img src="[https://www.rasgane.com/logo.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTCzHTCD85E9HayKrkWp1dO-B7je83mZKPO2Pck_g3pznJFBxjFLSKMI_W1Jf2NHKDLt_1HUtSJ-BMXiLvnxjxh4iEzhxKMYPMg-uu0oWmgQngUPzMujsHKtIOhTZzWawckzS1HqpETrCNI6B1RE63qiwvVEpOtOHhRfY2wfPN5Dh8u7uvVaHSNCCdiY/s1600/Screenshot%202025-05-18%20163004.png)" alt="Memasang Informasi Tema">
+</p>
