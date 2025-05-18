@@ -1,2 +1,1 @@
-# igniel-clone
-ini hanya panduan saja
+# Memasang Informasi Tema
