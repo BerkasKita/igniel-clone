@@ -204,4 +204,8 @@ dan hasilnya akan seperti ini
 </div>]]>
 ```
 
-Terakhir pada `cond='data:view.url == data:blog.homepageUrl path &quot;/2025/05/test-template.html&quot;'` bagian `/2025/05/test-template.html` bisa seuaikan dengan url blog kamu. contoh: `https://www.yoredaze.com/2025/05/test-template.html` menjadi `/2025/05/test-template.html`
+Terakhir pada `cond='data:view.url == data:blog.homepageUrl path &quot;/2025/05/test-template.html&quot;'` 
+
+bagian `/2025/05/test-template.html` bisa seuaikan dengan url blog kamu. 
+
+contoh: `https://www.yoredaze.com/2025/05/test-template.html` menjadi `/2025/05/test-template.html`
