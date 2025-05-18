@@ -213,5 +213,5 @@ contoh: `https://www.yoredaze.com/2025/05/test-template.html` menjadi `/2025/05/
 # Memasang Url Demo pada mode mobile
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNTCzHTCD85E9HayKrkWp1dO-B7je83mZKPO2Pck_g3pznJFBxjFLSKMI_W1Jf2NHKDLt_1HUtSJ-BMXiLvnxjxh4iEzhxKMYPMg-uu0oWmgQngUPzMujsHKtIOhTZzWawckzS1HqpETrCNI6B1RE63qiwvVEpOtOHhRfY2wfPN5Dh8u7uvVaHSNCCdiY/s1600/Screenshot%202025-05-18%20163004.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpjamXeFBIwxtqdtB4uj3I0eyNpIlyHlVy5FPfNaAGkV3R9lMaQWV118DOUT1M7urPKreBJCgnXpoP1rUS-sg4k9ZvwAKeyO1VZLfnWrbM1_l423EMf-meSTc87wDx-Er_pw91-E_MaKw1-vBjOofJOkHfwyQ6_xK1r15mIy6XR3V-5NGzPcBYIknfIM/s0/Screenshot%202025-05-18%20223530.png" alt="Memasang Url Demo pada mode mobile">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpjamXeFBIwxtqdtB4uj3I0eyNpIlyHlVy5FPfNaAGkV3R9lMaQWV118DOUT1M7urPKreBJCgnXpoP1rUS-sg4k9ZvwAKeyO1VZLfnWrbM1_l423EMf-meSTc87wDx-Er_pw91-E_MaKw1-vBjOofJOkHfwyQ6_xK1r15mIy6XR3V-5NGzPcBYIknfIM/s0/Screenshot%202025-05-18%20223530.png" alt="Memasang Url Demo pada mode mobile">
 </p>
