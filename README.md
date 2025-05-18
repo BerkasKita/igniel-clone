@@ -17,10 +17,12 @@ dan letakkan dibawahnya kode ini
     <b:widget-setting name='content'><![CDATA[...]]></b:widget-setting>
   </b:widget-settings>
   <b:includable id='main'>
-    <b:include name='widget-title' />
-    <div class='widget-content'>
-      <data:content />
-    </div>
+    <b:if cond='!data:blog.isMobileRequest'>
+      <b:include name='widget-title'/>
+      <div class='widget-content'>
+        <data:content/>
+      </div>
+    </b:if>
   </b:includable>
 </b:widget>
 ```
