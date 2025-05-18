@@ -25,7 +25,7 @@ dan letakkan dibawahnya kode ini
 </b:widget>
 ```
 
-pada `id='HTML1'` ganti dengan id yang belum tersedia, contoh id='HTML100' atau id='HTML101' dan seterusnya (Setiap Widget tidak boleh memiliki id yang sama).
+pada `id='HTML1'` ganti dengan id yang belum tersedia, contoh `id='HTML100'` atau `id='HTML101'` dan seterusnya (Setiap Widget tidak boleh memiliki id yang sama).
 
 pada `<![CDATA[...]]>` ganti dengan tag html ini 
 
