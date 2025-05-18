@@ -215,3 +215,13 @@ contoh: `https://www.yoredaze.com/2025/05/test-template.html` menjadi `/2025/05/
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpjamXeFBIwxtqdtB4uj3I0eyNpIlyHlVy5FPfNaAGkV3R9lMaQWV118DOUT1M7urPKreBJCgnXpoP1rUS-sg4k9ZvwAKeyO1VZLfnWrbM1_l423EMf-meSTc87wDx-Er_pw91-E_MaKw1-vBjOofJOkHfwyQ6_xK1r15mIy6XR3V-5NGzPcBYIknfIM/s0/Screenshot%202025-05-18%20223530.png" alt="Memasang Url Demo pada mode mobile">
 </p>
+
+cari kode ini
+
+```html
+<a class="tema-demo btn-outline f" href="https://igniplex.blogspot.com" rel="noopener" target="_blank" title="Demo Igniplex">
+  <svg class="fill" viewBox="0 0 24 24"><path d="M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9M12,4.5C17,4.5 21.27,7.61 23,12C21.27,16.39 17,19.5 12,19.5C7,19.5 2.73,16.39 1,12C2.73,7.61 7,4.5 12,4.5M3.18,12C4.83,15.36 8.24,17.5 12,17.5C15.76,17.5 19.17,15.36 20.82,12C19.17,8.64 15.76,6.5 12,6.5C8.24,6.5 4.83,8.64 3.18,12Z" fill="%2377828d"></path></svg><span class="demo-teks">Demo</span>
+</a>
+```
+
+ganti pada `href="..."` dengan url kamu
